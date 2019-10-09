@@ -26,11 +26,17 @@ Now create a branch using the git checkout command:
 
 ``git checkout -b <add-your-new-branch-name>
 `` 
+write the branch name without brackets.
+
 # Make necessary changes and commit those changes
-Go to just_add folder.
+Go to ``freshers`` folder.
 In the  ``contributor_list.md ``  add your name and git account.
-Then move into json folder open the  ``gitcommands.json ``  file and write and of the git commad you understood and describe it in one line. 
-After necessary changes are made save them.
+Then move into json folder open the  ``gitcommands.json ``  file and write any git commad you understood and describe it in one line. 
+After necessary changes are made save them and in terminal type ``git status``.
+Now you need to add them.
+``git add freshers
+``
+cause the folder you edited is named as freshers.
 If you go to the project directory and execute the command git status, you'll see there are changes.
 
 ``git commit -m "Briefly explain what you did"
@@ -46,6 +52,9 @@ Replacing  ``<add-your-branch-name>``  with the name of the branch you created e
 # Submit your changes for review
 If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
 Now submit the pull request.
+
 # Where to go from here?
 Congrats! You just completed the standard fork -> clone -> edit -> PR workflow that you'll encounter often as a contributor! Now its time to practice some more PR workflow using different repositories.
+
+# And you like it then press the star button 
 
