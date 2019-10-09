@@ -20,7 +20,10 @@ Now create a branch using the git checkout command:
 git checkout -b <add-your-new-branch-name>
  
 # Make necessary changes and commit those changes
-Make necessary change and save them.
+Go to just_add folder.
+In the contributor_list.md add your name and git account.
+Then move into json folder open the json file and write and of the git commad u understood and describe it in one line. 
+After necessary changes are made save them.
 If you go to the project directory and execute the command git status, you'll see there are changes.
 git commit -m "Briefly explain what you did"
 
