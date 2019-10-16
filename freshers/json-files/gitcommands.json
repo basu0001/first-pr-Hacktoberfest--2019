@@ -11,4 +11,8 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
     "title": "write your command",
     "description": "Describe it"
   },
+  {
+  	"title":git pull https://github.com/saidatta1/first-pr-Hacktoberfest--2019.git
+  	"description":pulling the repo to local pc
+  }
 ]
