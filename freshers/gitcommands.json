@@ -1,0 +1,2 @@
+"git status": "git status"
+ "description": "git status will return the current working branch. If a file is in the staging area, but not committed, it shows with git status. Or, if there are no changes it’ll return nothing to commit, working directory clean."
