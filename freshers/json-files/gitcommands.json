@@ -12,7 +12,10 @@ IT BASICALLY MAKES THE COPY OF THE ORIGINAL PROJECT.
     "description": "Describe it"
   },
   {
+  	"title":git pull https://github.com/saidatta1/first-pr-Hacktoberfest--2019.git
+  	"description":pulling the repo to local pc
     "title": "git branch [branch-name]",
     "description": "This command creates a branch from a master branch, which we can play around with and make changes to."
+
   }
 ]
