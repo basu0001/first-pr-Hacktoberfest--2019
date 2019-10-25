@@ -1,4 +1,4 @@
-// C program for different tree traversals
+//C program for different tree traversals
 #include <stdio.h>
 #include <stdlib.h>
  
