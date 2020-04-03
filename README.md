@@ -56,5 +56,5 @@ Now submit the pull request.
 # Where to go from here?
 Congrats! You just completed the standard fork -> clone -> edit -> PR workflow that you'll encounter often as a contributor! Now its time to practice some more PR workflow using different repositories.
 
-# And you like it then press the star button 
+# And you like it then press the star button #
 
